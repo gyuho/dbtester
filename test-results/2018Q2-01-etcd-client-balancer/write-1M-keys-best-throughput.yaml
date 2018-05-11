@@ -187,7 +187,7 @@ datatbase_id_to_config_client_machine_agent_control:
       step1_start_database: true
       step2_stress_database: true
       step3_stop_database: true
-      step4_upload_logs: true
+      step4_upload_logs: false
 
 
 datatbase_id_to_config_analyze_machine_initial:
